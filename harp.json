@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "title": "my-mzharp",
+    "tagline": "Testing the MZHarp generator",
+    "disqus": false,
+    "analytics": false,
+    "breakpoints": {
+      "small": 460,
+      "medium": 680,
+      "regular": 820,
+      "large": 1400
+    }
+  }
+}
